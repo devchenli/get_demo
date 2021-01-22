@@ -1,0 +1,10 @@
+{
+  "buttons":{
+    "enter":"Enter",
+     "exit": "Exit"
+  },
+  "title":{
+    "home":"HomeTitle",
+    "content":"ContentTitle"
+  }
+}

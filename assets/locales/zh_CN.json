@@ -1,0 +1,10 @@
+{
+  "buttons":{
+    "enter":"进入",
+    "exit": "退出"
+  },
+  "title":{
+    "home":"主页标题",
+    "content":"内容页标题"
+  }
+}
